@@ -3,15 +3,18 @@ control the DJI Tello using single hand gestures
 open media drone test is the file that runs the whole algorithm
 using mediapipe handlandmark recoginition i have created 11 gestures to pilot the DJI Tello quad copter to pilot the drone.
 following are the exmaples of gestures:
-**forward**
 
+**forward**
 ![image](https://user-images.githubusercontent.com/44557919/116989163-4884d180-acc9-11eb-9e10-e34de6d7e3d9.png)
+
 **back**
 
 ![image](https://user-images.githubusercontent.com/44557919/116989215-5c303800-acc9-11eb-8942-5482b401f781.png)
+
 **Yaw right**
 
 ![image](https://user-images.githubusercontent.com/44557919/116989280-766a1600-acc9-11eb-845c-3ac016e66e5f.png)
+
 **Yaw Left**
 
 ![image](https://user-images.githubusercontent.com/44557919/116989326-841f9b80-acc9-11eb-9d3f-d9ed51de0bd0.png)
